@@ -144,6 +144,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ### Output
 <img width="1920" height="1020" alt="DE Exp 3(1)" src="https://github.com/user-attachments/assets/5bc1dc92-5bf0-43cc-84a4-15f6f4c00a0d" />
+<img width="1920" height="1020" alt="DE Exp 3(2)" src="https://github.com/user-attachments/assets/5c10f5f9-d0e2-4876-8ac6-7a6c95adbbf8" />
 
 
 ### Viva-Voce Questions
